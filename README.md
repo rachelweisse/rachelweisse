@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-My name is Rachel Weiss. she/her   kjhfsakjdhfl;js
-**rachelweisse/rachelweisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rachel Weiss, she/her, and I am studying Applied Mathematics and Climate Science, Justice, and Policy at Brandeis Univeristy. I am passionate about quantative climate science and oceanographic research through a quantative and data science lens. 
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: rachelweiss@brandeis.edu or reweiss04@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have run the LA marathon. 
 
 0987654321234567890-0987654321
 
