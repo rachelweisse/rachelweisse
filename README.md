@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 My name is Rachel Weiss. she/her   kjhfsakjdhfl;js
 **rachelweisse/rachelweisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-
 0987654321234567890-0987654321
--->
+
