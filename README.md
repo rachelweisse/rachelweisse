@@ -7,4 +7,5 @@ My name is Rachel Weiss, she/her, and I am studying Applied Mathematics and Envi
 - How to reach me: rachelweiss@brandeis.edu or reweiss04@gmail.com
 - My LinkedIn: [Rachel Weiss](https://www.linkedin.com/in/rachelweiss0)
 - Pronouns: she/her
+- Hobbies/Interests: I volunteer with my university's environmental volunteer organization where we partner with local non profits as well as provide environmental educational opportunities. I also tutor high school students in mathematics. I enjoy hiking, running, and 
 - Fun fact: I have run the LA marathon.
