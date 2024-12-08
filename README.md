@@ -5,8 +5,7 @@ My name is Rachel Weiss, she/her, and I am studying Applied Mathematics and Envi
 
 - I am currently working on developing a harmful algal bloom predictive model
 - How to reach me: rachelweiss@brandeis.edu or reweiss04@gmail.com
-- My LinkedIn: [Rachel Weiss] [](www.linkedin.com/in/rachelweiss0)
-
+- My LinkedIn: [Rachel Weiss](www.linkedin.com/in/rachelweiss0)
 - Pronouns: she/her
 - Fun fact: I have run the LA marathon.
 - Here is my Linkedin 
